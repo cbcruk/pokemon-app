@@ -1,0 +1,16 @@
+.root {
+  border: 1px solid;
+  border-collapse: collapse;
+  table-layout: fixed;
+  text-align: left;
+}
+
+.root th,
+.root td {
+  padding: 4px;
+  border: 1px solid;
+}
+
+.root th {
+  white-space: nowrap;
+}
